@@ -1,6 +1,6 @@
 Backend Developer Code Challenge - Customer Management API
 About the Project
-This project aims to develop a simple RESTful API for managing customer data. The API provides four main endpoints for customer operations: creating, viewing, updating, and deleting customers. The project was developed using .NET Core and Entity Framework Core.
+This project aims to develop a simple RESTful API for managing customer data. The API provides four main endpoints for customer operations: creating, viewing, updating, and deleting customers. The project was developed using .NET Core and Entity Framework Core. 
 
 Architecture
 This project uses a Layered Architecture. This structure helps keep the code more understandable, modular, and maintainable. The project is composed of three main layers:
